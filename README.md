@@ -35,6 +35,8 @@ Chatbot platform using multi agent rag
 
 Machine Translate mT5 Eng - Vie
 
+Unet + Resnet Sementic Segmentation
+
 Finetune ViT model for image classification
 
 Contact quangtuyennguyen0299@gmail.com or zalo: 0776416032 for more info.
