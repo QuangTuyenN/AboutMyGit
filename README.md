@@ -39,4 +39,6 @@ Unet + Resnet Sementic Segmentation
 
 Finetune ViT model for image classification
 
+OCR Lisence plate and scan docs
+
 Contact quangtuyennguyen0299@gmail.com or zalo: 0776416032 for more info.
