@@ -45,4 +45,6 @@ Fraud detection credit card data
 
 Demo PPO, TD3 in carRacing env (Reinforcement Learning)
 
+Demo Autogen multi agent
+
 Contact quangtuyennguyen0299@gmail.com or zalo: 0776416032 for more info.
