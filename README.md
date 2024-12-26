@@ -27,6 +27,10 @@ Human action Recognition use LSTM
 
 RAG with openAI and RAG ollama local
 
+Multimodal Langchain and OpenAI
+
+Agent with tools and ReAct 
+
 GAN: Cycle GAN, DC GAN
 
 Grammar fix error Vietnamese Language
